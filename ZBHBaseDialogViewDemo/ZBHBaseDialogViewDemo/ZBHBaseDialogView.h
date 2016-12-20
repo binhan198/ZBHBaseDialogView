@@ -23,8 +23,6 @@
 
 //添加额外控件，继承，改写
 - (void)setupAdditionalContent:(UIView *)contentView;
-
-//显示
 - (void)showWithCompletion:(void (^)(id dialogView, NSInteger selectIndex))completeBlock;
 - (void)closeView;
 
