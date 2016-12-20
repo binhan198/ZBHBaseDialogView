@@ -16,4 +16,4 @@
 ```
 
 #实际效果图
-![实际效果图](https://github.com/binhan198/ZBHBaseDialogView/tree/master/ZBHBaseDialogViewDemo/images/showImage.gif)
+![实际效果图](https://github.com/binhan198/ZBHBaseDialogView/raw/master/ZBHBaseDialogViewDemo/images/showImage.gif)
